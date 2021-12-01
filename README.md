@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @aspanu
+- 👀 I’m interested in teaching more about software engineering
+- 🌱 I’m currently learning how to balance being an EM and not getting too rusty
+- 💞️ I’m looking to collaborate on interesting projects. I enjoy spending some of my spare time working on things that are both interesting and helpful, so hit me up if you have any ideas.
+- 📫 You can reach me through my email: adri at nspanu.ca
